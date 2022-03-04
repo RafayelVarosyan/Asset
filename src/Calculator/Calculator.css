@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.calculatorNav {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    margin: 50px 0 100px 0;
+}
+
+.calculatorNav li {
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.selected {
+    color: #BC2E31;
+    border-bottom: 1px solid black;
+}
+
+.bordered {
+    height: 90vh;
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px 0 200px 0;
+}
+
+.bordered p {
+    margin: 20px 0;
+}
+
+.bordered div {
+    width: 350px;
+    height: 50px;
+    background-color: #C4C4C4;
+}
+
+.secondTypeFooter {
+    background-color: #232628;
+    border-top: 1px solid black;
+    margin: 100px 0 0;
+    padding: 50px 0 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.secondTypeFooter p {
+    margin: 10px 0;
+    font-size: 18px;
+    color: white;
+}

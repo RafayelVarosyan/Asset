@@ -1,0 +1,207 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shortSection {
+    width: 90%;
+    margin: 100px auto 0;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: lighter;
+}
+
+.title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title div {
+    display: flex;
+    flex-direction: column;
+    margin-right: 15%;
+    justify-content: space-around;
+}
+
+.titleBtn {
+    width: 200px;
+    height: 50px;
+    border: none;
+    font-weight: bolder;
+}
+
+.red {
+    background-color: #BC2E31;
+    color: white;
+}
+
+.white {
+    border: 1px solid black;
+    background-color: white;
+}
+
+.text {
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+.full {
+    width: 100%;
+}
+
+.secondSt {
+    margin: 100px 0 20px 0;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.requirmentsBox {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.requirments {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+
+.requirmentLine {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+.fullWrapper {
+    margin-top: 50px;
+    padding: 50px 0 50px 0;
+    width: 100%;
+    background-color: #F7F7F7;
+}
+
+.helpers {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+}
+
+.helper {
+    display: flex; 
+    align-items: flex-end;
+    margin: 50px 0 50px 0;
+    font-size: 24px;
+}
+
+.secondimage {
+    width: 100%;
+}
+
+.services {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.services div {
+    padding: 50px 0 50px 0;
+}
+
+.sevicesLine {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sevricesLinesecond {
+    width: 65.8%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.services p, .servicesLinesecond p {
+    margin: 10px 0;
+}
+
+.serviceName {
+    font-size: 22px;
+}
+
+.wdwo {
+    font-size: 28px;
+    color: #999999;
+    font-weight: lighter;
+}
+
+.wdwoText {
+    margin: 50px 0;
+    font-size: 33px;
+}
+
+.wdwoBtns {
+    display: flex;
+    flex-direction: column;
+}
+
+.wdwoBtns button {
+    margin: 10px 0;
+}
+
+.banks {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+
+.banks div {
+    width: 30%;
+    height: 180px;
+    background-color: #F7F7F7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.marginBanks {
+    margin-bottom: 100px;
+}
+
+.lastSubtitle {
+    font-size: 38px;
+}
+
+.lasttext {
+    font-size: 20px;
+}
+
+.transparent {
+    color: #999999;
+}
+
+.working {
+    margin: 40px 0;
+}
+
+.pages {
+    display: flex;
+}
+
+.page {
+    padding: 0 20px;
+}
+
+.firstTypeFooter {
+    width: 90%;
+    border-top: 1px solid black;
+    margin: 100px auto 40px;
+    padding: 50px 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.firstTypeFooter p {
+    margin: 10px 0;
+    font-size: 18px;
+}

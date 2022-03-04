@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.teamtext {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.teamrow {
+    margin: 100px 0;
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+}
+
+.teamrow img {
+    width: 50%;
+}
+
+.teamrow p {
+    margin: 10px 0;
+}
+
+.transparent {
+    visibility: hidden;
+}
+
+.black a{
+    color: black;
+}

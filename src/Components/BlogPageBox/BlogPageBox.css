@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blogpagebox {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.blogpagebox img {
+    width: 290px;
+    height: 250px;
+}
+
+.blogpagebox p {
+    margin: 10px 0;
+    padding-left: 20px;
+}

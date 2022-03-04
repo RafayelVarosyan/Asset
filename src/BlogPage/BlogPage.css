@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bpfirst {
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.bpfirst p {
+    font-size: 18px;
+    padding-left: 40px;
+}
+
+.bbpcol {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.bbprow {
+    display: flex;
+}
+

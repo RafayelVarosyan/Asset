@@ -1,0 +1,58 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.shortSection {
+    width: 90%;
+    margin: 100px auto 0;
+}
+
+.h1 {
+    font-size: 70px;
+    font-weight: lighter;
+}
+
+.emptyBox {
+    width: 100%;
+    height: 75vh;
+    margin: 100px 0;
+}
+
+.secondSt {
+    margin: 100px 0 20px 0;
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+.aboutPartners {
+    display: flex;
+    margin: 150px 0;
+}
+
+.aboutPartners div {
+    width: 50%;
+}
+
+.partner {
+    line-height: 28px;
+}
+
+.partnerBtn {
+    width: 210px;
+    height: 40px;
+    border: none;
+    margin: 40px 0;
+    background-color: #0F2857;
+    color: white;
+}
+
+.firstTypeFooter {
+    width: 90%;
+    border-top: 1px solid black;
+    margin: 100px auto 40px;
+    padding: 50px 0 0;
+    display: flex;
+    justify-content: space-around;
+}

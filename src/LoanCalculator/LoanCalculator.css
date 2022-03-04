@@ -1,0 +1,19 @@
+.blackBox {
+    width: 50%;
+    background-color: black;
+    height: 80px;
+}
+
+.borderedBox {
+    height: 90vh;
+    border: 1px solid black;
+    margin: 50px 0 200px 0;
+    display: flex;
+}
+
+.borderedBox p {
+    width: 50%;
+    height: 80px;
+    text-align: center;
+    padding: 40px;
+}
